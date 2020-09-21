@@ -10,7 +10,6 @@
 
 - 👯 I’m looking forward to collaborate on Open Source project and to learn Kubernetes adn Azure.
 
-
 <div align="center">
     <h3 align="center">Connect with me<img align="center" src="https://github.com/3l-d1abl0/3l-d1abl0/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
