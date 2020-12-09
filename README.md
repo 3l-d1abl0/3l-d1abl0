@@ -8,7 +8,7 @@
 
 - 🌱 I'm Currently Learning Go and Diving Deep into AWS.
 
-- 👯 I’m looking forward to collaborate on Open Source project and to learn Kubernetes adn Azure.
+- 👯 I’m looking forward to collaborate on Open Source project and to learn Kubernetes.
 
 <div align="center">
     <h3 align="center">Connect with me<img align="center" src="https://raw.githubusercontent.com/3l-d1abl0/3l-d1abl0/master/Handshake.gif" height="33px" /></h3> 
