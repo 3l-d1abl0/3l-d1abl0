@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/github/followers/3l-d1abl0.svg?label=GitHub&style=social" alt="GitHub">
 </a>
 
-    <br/>
-    <br/>
-    Thanks for stopping by 😁<br/>
+<br/>
+<br/>
+Thanks for stopping by 😁<br/>
 </p>
