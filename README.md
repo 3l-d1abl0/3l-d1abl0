@@ -10,6 +10,12 @@
 
 - 👯 I’m looking forward to collaborate on Open Source project and to learn Kubernetes.
 
+#### What I am upto ?
+
+<div align="center">
+<img align="center" src="https://wakatime.com/share/@fb674470-bc20-43c7-b5f5-5224325fc4cc/1348f8ea-3f90-47c7-b5c0-51037b05900a.svg" />
+</div>
+
 <div align="center">
     <h3 align="center">Connect with me<img align="center" src="https://raw.githubusercontent.com/3l-d1abl0/3l-d1abl0/master/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -31,9 +37,3 @@
     <br/>
     Thanks for stopping by 😁<br/>
 </p>
-
-<div align="center">
-    
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/3l-d1abl0" /></p>
-
-</div>  
