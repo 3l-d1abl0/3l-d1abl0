@@ -26,13 +26,13 @@
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" > &nbsp; &nbsp;
 </span> 
     
-<a href="https://twitter.com/RusticWind" style="text-decoration: none;">
+<span href="https://twitter.com/RusticWind" style="text-decoration: none;">
     <img src="https://img.shields.io/twitter/follow/RusticWind?label=Twitter&style=social" alt="Twitter" > &nbsp; &nbsp;
-</a> 
+</span> 
 
-<a href="https://github.com/3l-d1abl0" style="text-decoration: none !important;">
+<span href="https://github.com/3l-d1abl0" style="text-decoration: none !important;">
     <img src="https://img.shields.io/github/followers/3l-d1abl0.svg?label=GitHub&style=social" alt="GitHub" > &nbsp; &nbsp;
-</a>
+</span>
     <br/>
     <br/>
     Thanks for stopping by 😁<br/>
