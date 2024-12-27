@@ -10,10 +10,10 @@
 
 - 👯 I’m looking forward to collaborate on Open Source project and to learn Kubernetes.
 
-#### What I am upto ?
+#### What am I upto ?
 
 <div align="center">
-<img align="center" src="https://wakatime.com/share/@fb674470-bc20-43c7-b5f5-5224325fc4cc/1348f8ea-3f90-47c7-b5c0-51037b05900a.svg" />
+    <img align="center" src="https://wakatime.com/share/@fb674470-bc20-43c7-b5f5-5224325fc4cc/ef81ccf0-3eb9-4f98-a977-53a7eea1549f.svg" />
 </div>
 
 <div align="center">
